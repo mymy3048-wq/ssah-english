@@ -1,0 +1,1 @@
+{"name": "쌓는 영어 - 블록으로 쌓는 영어 말하기", "short_name": "쌓는 영어", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f3f5f7", "theme_color": "#0f7b6c", "lang": "ko", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
